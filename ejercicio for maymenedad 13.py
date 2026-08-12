@@ -25,5 +25,5 @@ print("Lista de mayores de edad", mayores_de_edad)
 print("Cantidad de mayores de edad", contar_mayores)
 print("Cantidad de menores de edad", contar_menores)
 
-print("Lista de mayores de edad:")
+print("Lista de mayores de edada:")
         
